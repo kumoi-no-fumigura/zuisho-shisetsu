@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/zuisho-shisetsu",
  "yomi": "ずいしょしせつ",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "歌学書（聞書）",
+  "era": "江戸後期",
+  "author": "香川景樹（1768〜1843）の説",
+  "desc": "折にふれて聞いた香川景樹の教えを門人が書き留めたもの。古人の歌の「天巧」と「人巧」の別や、門人の歌への添削などを記す。"
+ },
  "editions": [
   {
    "pid": "993383",
